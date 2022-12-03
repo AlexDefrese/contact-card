@@ -19,5 +19,8 @@
   },
   "engines": {
     "node": "16.x"
+  },
+  "devDependencies": {
+    "workbox-webpack-plugin": "^6.5.4"
   }
 }
